@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+logs/*.jsonl
+
+data/*.osm.pbf
+data/thailand-*.osm.pbf
+
+.DS_Store
+.vscode/
